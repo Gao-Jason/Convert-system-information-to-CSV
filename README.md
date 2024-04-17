@@ -31,6 +31,6 @@ pip install pyinstaller
 ```
 pyinstaller –F + Project name.py
 ```
-This will generate a folder named dist in the current directory containing the packaged executable file.
+This will generate a folder named dist in the current directory containing the packaged executable file.  
 
 If you need the progress bar version, you can go to
