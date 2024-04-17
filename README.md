@@ -35,3 +35,4 @@ This will generate a folder named dist in the current directory containing the p
 
 If you need the progress bar version, you can go to
 -------
+https://github.com/Gao-Jason/Convert-system-information-to-CSV-progress-bar-version
