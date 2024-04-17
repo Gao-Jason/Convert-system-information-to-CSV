@@ -10,6 +10,11 @@ Using Python
 Installable Python kits, and information about using Python, are available at [python.org](https://www.python.org/)。
 
 
+project instruction
+====
+This is a program that can record the hard disk, CPU, and memory, and write the records into an Excel file through a CSV-like method, and if there is repeated execution on the day, it will also be marked additionally.
+
+
 📦Install
 pip automatic download & update
 -------
