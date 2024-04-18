@@ -35,7 +35,7 @@ Additionally, if you intend to use file locking on Windows, msvcrt library is an
 pip install pyinstaller
 ```
 ```
-pyinstaller –F + Project name.py
+pyinstaller –F Convert-system-information-to-CSV.py
 ```
 This will generate a folder named dist in the current directory containing the packaged executable file.
 
